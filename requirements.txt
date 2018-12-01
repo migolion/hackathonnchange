@@ -1,3 +1,4 @@
 matplotlib
 opencv-python
 PyQT5
+pyqt5-tools
